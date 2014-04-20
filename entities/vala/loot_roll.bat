@@ -1,0 +1,1 @@
+if %flag_times_defeated_vala == 0 (set lootdrop=numbrocks)

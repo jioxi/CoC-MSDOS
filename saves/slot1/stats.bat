@@ -1,0 +1,15 @@
+set playername=test
+set playerlevel=1
+set playerexperience=0
+set playergems=0
+set playermaxlife=100
+set playerlife=100
+set playerenergy=100
+set playerlust=0
+set playerstrength=10
+set playertoughness=10
+set playeragility=10
+set playerintelligence=10
+set playerlibido=10
+set playersensitivity=10
+set playercorruption=2
